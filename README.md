@@ -15,6 +15,11 @@ Data Science repository containing support material and practical exercises.
 
 ## Week 2:
   - [`ds-pr-week-2-student.ipynb`](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_2/ds-pr-week-2-student.ipynb)
+  - [`ds-pr-week-2-solution.ipynb`](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_2/ds-pr-week-2-solution.ipynb)
+  
+  - Datasets:
+    - [`students.csv`](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_2/students.csv)
+    - [`titanic.csv`](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_2/titanic.csv)
 
 ## Week 3:
   - [`ds-pr-week-3-student.ipynb`](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-student.ipynb)
