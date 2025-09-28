@@ -24,3 +24,9 @@ Data Science repository containing support material and practical exercises.
 ## Week 3:
   - [`ds-pr-week-3-student.ipynb`](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-student.ipynb)
 
+## Week 4:
+  - [`ds-pr-week-4-student.ipynb`](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_4/ds-pr-week-4-student.ipynb)
+
+  - Dataset:
+    - [`Auto.csv`](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_4/Auto.csv) 
+    
