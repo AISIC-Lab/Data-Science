@@ -111,6 +111,12 @@ Local development environments for Python:
 
 ---
 
+## 📆 Week 7
+
+### 📝💡✏️ Practical Test
+
+---
+
 ## 📆 Week 8
 
 ### 🧩 Student Version
