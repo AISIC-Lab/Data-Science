@@ -43,8 +43,8 @@ Python data types, data structures, operators, control flow, libraries, and work
 
 | 🧩 Student | 🔑 Solution |
 | :---: | :---: |
-| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-student.ipynb) | [![GitHub Solution](https://img.shields.io/badge/GitHub-Solution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-solution.ipynb) |
-| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-student.ipynb) | [![Colab Solution](https://img.shields.io/badge/Colab-Solution-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-solution.ipynb) |
+| [![GitHub Student](img/badges/github-student.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-student.ipynb) | [![GitHub Solution](img/badges/github-solution.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-solution.ipynb) |
+| [![Colab Student](img/badges/colab-student.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-student.ipynb) | [![Colab Solution](img/badges/colab-solution.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-solution.ipynb) |
 
 ---
 
@@ -56,8 +56,8 @@ Loading, exploring, and manipulating rectangular data with Pandas and NumPy.
 
 | 🧩 Student | 🔑 Solution |
 | :---: | :---: |
-| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_2/ds-pr-week-2-student.ipynb) | [![GitHub Solution](https://img.shields.io/badge/GitHub-Solution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_2/ds_pr_week_2_solution.ipynb) |
-| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_2/ds-pr-week-2-student.ipynb) | [![Colab Solution](https://img.shields.io/badge/Colab-Solution-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_2/ds_pr_week_2_solution.ipynb) |
+| [![GitHub Student](img/badges/github-student.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_2/ds-pr-week-2-student.ipynb) | [![GitHub Solution](img/badges/github-solution.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_2/ds_pr_week_2_solution.ipynb) |
+| [![Colab Student](img/badges/colab-student.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_2/ds-pr-week-2-student.ipynb) | [![Colab Solution](img/badges/colab-solution.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_2/ds_pr_week_2_solution.ipynb) |
 
 ### 📂 Datasets
 
@@ -75,8 +75,8 @@ Central tendency, dispersion, frequency tables, distributions, and populations v
 
 | 🧩 Student | 🔑 Solution |
 | :---: | :---: |
-| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-student.ipynb) | [![GitHub Solution](https://img.shields.io/badge/GitHub-Solution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-solution.ipynb) |
-| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-student.ipynb) | [![Colab Solution](https://img.shields.io/badge/Colab-Solution-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-solution.ipynb) |
+| [![GitHub Student](img/badges/github-student.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-student.ipynb) | [![GitHub Solution](img/badges/github-solution.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-solution.ipynb) |
+| [![Colab Student](img/badges/colab-student.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-student.ipynb) | [![Colab Solution](img/badges/colab-solution.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-solution.ipynb) |
 
 ### ➕ Extra — Titanic Filtering Exercises
 
@@ -84,8 +84,8 @@ Additional practice selecting and filtering data from the Titanic dataset.
 
 | 🧩 Student | 🔑 Solution |
 | :---: | :---: |
-| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra.ipynb) | [![GitHub Solution](https://img.shields.io/badge/GitHub-Solution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra-solution.ipynb) |
-| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra.ipynb) | [![Colab Solution](https://img.shields.io/badge/Colab-Solution-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra-solution.ipynb) |
+| [![GitHub Student](img/badges/github-student.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra.ipynb) | [![GitHub Solution](img/badges/github-solution.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra-solution.ipynb) |
+| [![Colab Student](img/badges/colab-student.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra.ipynb) | [![Colab Solution](img/badges/colab-solution.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra-solution.ipynb) |
 
 ---
 
@@ -97,8 +97,8 @@ Review of descriptive statistics, scatter plots, and linear correlations between
 
 | 🧩 Student | 🔑 Solution |
 | :---: | :---: |
-| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_4/ds-pr-week-4-student.ipynb) | [![GitHub Solution](https://img.shields.io/badge/GitHub-Solution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_4/ds_pr_week_4_solution.ipynb) |
-| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_4/ds-pr-week-4-student.ipynb) | [![Colab Solution](https://img.shields.io/badge/Colab-Solution-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_4/ds_pr_week_4_solution.ipynb) |
+| [![GitHub Student](img/badges/github-student.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_4/ds-pr-week-4-student.ipynb) | [![GitHub Solution](img/badges/github-solution.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_4/ds_pr_week_4_solution.ipynb) |
+| [![Colab Student](img/badges/colab-student.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_4/ds-pr-week-4-student.ipynb) | [![Colab Solution](img/badges/colab-solution.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_4/ds_pr_week_4_solution.ipynb) |
 
 ### 📂 Datasets
 
@@ -114,8 +114,8 @@ Scatter plots, pair plots, Pearson and Spearman correlations, effect size, and s
 
 | 🧩 Student | 🔒 Solution (coming soon) |
 | :---: | :---: |
-| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_5/ds-pr-week-5-student.ipynb) | ![GitHub Solution — unavailable](https://img.shields.io/badge/GitHub-Solution-9CA3AF?style=for-the-badge&logo=github&logoColor=D1D5DB&labelColor=6B7280) |
-| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_5/ds-pr-week-5-student.ipynb) | ![Colab Solution — unavailable](https://img.shields.io/badge/Colab-Solution-9CA3AF?style=for-the-badge&logo=googlecolab&logoColor=D1D5DB&labelColor=6B7280) |
+| [![GitHub Student](img/badges/github-student.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_5/ds-pr-week-5-student.ipynb) | ![GitHub Solution — unavailable](img/badges/github-solution-unavailable.svg) |
+| [![Colab Student](img/badges/colab-student.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_5/ds-pr-week-5-student.ipynb) | ![Colab Solution — unavailable](img/badges/colab-solution-unavailable.svg) |
 
 ---
 
@@ -127,5 +127,5 @@ Contingency tables, grouped summaries, proportions, chi-square tests, and catego
 
 | 🧩 Student | 🔒 Solution (coming soon) |
 | :---: | :---: |
-| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-student.ipynb) | ![GitHub Solution — unavailable](https://img.shields.io/badge/GitHub-Solution-9CA3AF?style=for-the-badge&logo=github&logoColor=D1D5DB&labelColor=6B7280) |
-| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-student.ipynb) | ![Colab Solution — unavailable](https://img.shields.io/badge/Colab-Solution-9CA3AF?style=for-the-badge&logo=googlecolab&logoColor=D1D5DB&labelColor=6B7280) |
+| [![GitHub Student](img/badges/github-student.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-student.ipynb) | ![GitHub Solution — unavailable](img/badges/github-solution-unavailable.svg) |
+| [![Colab Student](img/badges/colab-student.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-student.ipynb) | ![Colab Solution — unavailable](img/badges/colab-solution-unavailable.svg) |
