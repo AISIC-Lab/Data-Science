@@ -6,7 +6,7 @@ Repository containing support material and practical exercises for **Data Scienc
 
 ## 🌐 Online Environment
 
-Run notebooks directly in your browser — no installation required:
+Run notebooks directly in your browser — **no installation required**:
 
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
@@ -17,11 +17,8 @@ Run notebooks directly in your browser — no installation required:
 Local development environments for Python:
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/)
-
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/download)
-
 [![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/download)
-
 [![PyCharm](https://img.shields.io/badge/PyCharm_Professional-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/download/)
 
 ---
@@ -29,42 +26,38 @@ Local development environments for Python:
 ## 📚 Installation Guides
 
 - **PyCharm + Jupyter Notebook**
-  - [`Installing-Pycharm.md`](https://github.com/AISIC-Lab/Data-Science/blob/main/Installing-Pycharm.md)
+
+  [![PyCharm Setup](https://img.shields.io/badge/PyCharm_Setup-000000?style=for-the-badge&logo=pycharm&logoColor=white)](Installing-Pycharm.md)
 
   **Portuguese Version**
-  - [`Installing-Pycharm-pt.md`](https://github.com/AISIC-Lab/Data-Science/blob/main/Installing-Pycharm-pt.md)
+
+  [![PyCharm Setup Portuguese](https://img.shields.io/badge/PyCharm_Setup-21D789?style=for-the-badge&logo=pycharm&logoColor=white)](Installing-Pycharm-pt.md)
 
 ---
 
 ## 📆 Week 1
 
-### 🧩 Student Version
+### Python Foundations
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-student.ipynb)
+Python data types, data structures, operators, control flow, libraries, and working with Jupyter notebooks.
 
-[![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-student.ipynb)
-
-### 🧩 Solution Version
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-solution.ipynb)
-
-[![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-solution.ipynb)
+| 🧩 Student | 🔑 Solution |
+| :---: | :---: |
+| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-student.ipynb) | [![GitHub Solution](https://img.shields.io/badge/GitHub-Solution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-solution.ipynb) |
+| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-student.ipynb) | [![Colab Solution](https://img.shields.io/badge/Colab-Solution-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_1/ds-pr-week-1-solution.ipynb) |
 
 ---
 
 ## 📆 Week 2
 
-### 🧩 Student Version
+### Rectangular Data and Pandas
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_2/ds-pr-week-2-student.ipynb)
+Loading, exploring, and manipulating rectangular data with Pandas and NumPy.
 
-[![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_2/ds-pr-week-2-student.ipynb)
-
-### 🧩 Solution Version
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_2/ds_pr_week_2_solution.ipynb)
-
-[![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_2/ds_pr_week_2_solution.ipynb)
+| 🧩 Student | 🔑 Solution |
+| :---: | :---: |
+| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_2/ds-pr-week-2-student.ipynb) | [![GitHub Solution](https://img.shields.io/badge/GitHub-Solution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_2/ds_pr_week_2_solution.ipynb) |
+| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_2/ds-pr-week-2-student.ipynb) | [![Colab Solution](https://img.shields.io/badge/Colab-Solution-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_2/ds_pr_week_2_solution.ipynb) |
 
 ### 📂 Datasets
 
@@ -76,47 +69,36 @@ Local development environments for Python:
 
 ## 📆 Week 3
 
-### ➕ Extra — Titanic filtering exercises
+### Main Notebook — Descriptive Statistics
 
-#### 🧩 Student Version
+Central tendency, dispersion, frequency tables, distributions, and populations versus samples.
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra.ipynb)
+| 🧩 Student | 🔑 Solution |
+| :---: | :---: |
+| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-student.ipynb) | [![GitHub Solution](https://img.shields.io/badge/GitHub-Solution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-solution.ipynb) |
+| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-student.ipynb) | [![Colab Solution](https://img.shields.io/badge/Colab-Solution-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-solution.ipynb) |
 
-[![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra.ipynb)
+### ➕ Extra — Titanic Filtering Exercises
 
-#### 🧩 Solution Version
+Additional practice selecting and filtering data from the Titanic dataset.
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra-solution.ipynb)
-
-[![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra-solution.ipynb)
-
-### 🧩 Student Version
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-student.ipynb)
-
-[![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-student.ipynb)
-
-### 🧩 Solution Version
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-solution.ipynb)
-
-[![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-solution.ipynb)
+| 🧩 Student | 🔑 Solution |
+| :---: | :---: |
+| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra.ipynb) | [![GitHub Solution](https://img.shields.io/badge/GitHub-Solution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra-solution.ipynb) |
+| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra.ipynb) | [![Colab Solution](https://img.shields.io/badge/Colab-Solution-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_3/ds-pr-week-3-filters-extra-solution.ipynb) |
 
 ---
 
 ## 📆 Week 4
 
-### 🧩 Student Version
+### Review and Correlation between Variables
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_4/ds-pr-week-4-student.ipynb)
+Review of descriptive statistics, scatter plots, and linear correlations between variables.
 
-[![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_4/ds-pr-week-4-student.ipynb)
-
-### 🧩 Solution Version
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_4/ds_pr_week_4_solution.ipynb)
-
-[![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_4/ds_pr_week_4_solution.ipynb)
+| 🧩 Student | 🔑 Solution |
+| :---: | :---: |
+| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_4/ds-pr-week-4-student.ipynb) | [![GitHub Solution](https://img.shields.io/badge/GitHub-Solution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_4/ds_pr_week_4_solution.ipynb) |
+| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_4/ds-pr-week-4-student.ipynb) | [![Colab Solution](https://img.shields.io/badge/Colab-Solution-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_4/ds_pr_week_4_solution.ipynb) |
 
 ### 📂 Datasets
 
@@ -126,18 +108,24 @@ Local development environments for Python:
 
 ## 📆 Week 5
 
-### 🧩 Student Version
+### Exploring Variable Associations
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_5/ds-pr-week-5-student.ipynb)
+Scatter plots, pair plots, Pearson and Spearman correlations, effect size, and statistical significance.
 
-[![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_5/ds-pr-week-5-student.ipynb)
+| 🧩 Student | 🔒 Solution (coming soon) |
+| :---: | :---: |
+| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_5/ds-pr-week-5-student.ipynb) | ![GitHub Solution — unavailable](https://img.shields.io/badge/GitHub-Solution-9CA3AF?style=for-the-badge&logo=github&logoColor=D1D5DB&labelColor=6B7280) |
+| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_5/ds-pr-week-5-student.ipynb) | ![Colab Solution — unavailable](https://img.shields.io/badge/Colab-Solution-9CA3AF?style=for-the-badge&logo=googlecolab&logoColor=D1D5DB&labelColor=6B7280) |
 
 ---
 
 ## 📆 Week 6
 
-### 🧩 Student Version
+### Categorical Data
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-student.ipynb)
+Contingency tables, grouped summaries, proportions, chi-square tests, and categorical associations with Cramér’s V.
 
-[![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-student.ipynb)
+| 🧩 Student | 🔒 Solution (coming soon) |
+| :---: | :---: |
+| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-student.ipynb) | ![GitHub Solution — unavailable](https://img.shields.io/badge/GitHub-Solution-9CA3AF?style=for-the-badge&logo=github&logoColor=D1D5DB&labelColor=6B7280) |
+| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-student.ipynb) | ![Colab Solution — unavailable](https://img.shields.io/badge/Colab-Solution-9CA3AF?style=for-the-badge&logo=googlecolab&logoColor=D1D5DB&labelColor=6B7280) |
