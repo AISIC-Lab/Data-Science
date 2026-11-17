@@ -25,6 +25,9 @@ Local development environments for Python:
 
 ## 📚 Installation Guides
 
+- **Git: your first pull, commit and push**
+  - [A practical guide with illustrated sign-in steps](Git-Getting-Started.md)
+
 - **PyCharm + Jupyter Notebook**
 
   [![PyCharm Setup](https://img.shields.io/badge/PyCharm_Setup-000000?style=for-the-badge&logo=pycharm&logoColor=white)](Installing-Pycharm.md)
@@ -129,3 +132,5 @@ Contingency tables, grouped summaries, proportions, chi-square tests, and catego
 | :---: | :---: |
 | [![GitHub Student](img/badges/github-student.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-student.ipynb) | ![GitHub Solution — unavailable](img/badges/github-solution-unavailable.svg) |
 | [![Colab Student](img/badges/colab-student.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-student.ipynb) | ![Colab Solution — unavailable](img/badges/colab-solution-unavailable.svg) |
+| [![GitHub Student](img/badges/github-student.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-extra.ipynb) | ![GitHub Solution — unavailable](img/badges/github-solution-unavailable.svg) |
+| [![Colab Student](img/badges/colab-student.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-extra.ipynb) | ![Colab Solution — unavailable](img/badges/colab-solution-unavailable.svg) |
