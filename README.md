@@ -134,3 +134,35 @@ Contingency tables, grouped summaries, proportions, chi-square tests, and catego
 | [![Colab Student](img/badges/colab-student.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-student.ipynb) | ![Colab Solution — unavailable](img/badges/colab-solution-unavailable.svg) |
 | [![GitHub Student](img/badges/github-student.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-extra.ipynb) | ![GitHub Solution — unavailable](img/badges/github-solution-unavailable.svg) |
 | [![Colab Student](img/badges/colab-student.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_6/ds-pr-week-6-extra.ipynb) | ![Colab Solution — unavailable](img/badges/colab-solution-unavailable.svg) |
+
+---
+
+## 📆 Week 7
+
+### Machine Learning Essentials
+
+Predictive and descriptive modeling, supervised and unsupervised learning, features and labels, train/test splits, cross-validation, and scikit-learn pipelines.
+
+Only the solution notebook is available for this week.
+
+| 🔑 Solution |
+| :---: |
+| [![GitHub Solution](img/badges/github-solution.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_7/ds-pr-week-7-solution.ipynb) |
+| [![Colab Solution](img/badges/colab-solution.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_7/ds-pr-week-7-solution.ipynb) |
+
+---
+
+## 📆 Week 8
+
+### Linear Regression
+
+Simple and multiple linear regression, exploring correlations, interpreting model coefficients, and assessing statistical significance and model fit.
+
+| 🧩 Student | 🔒 Solution (coming soon) |
+| :---: | :---: |
+| [![GitHub Student](img/badges/github-student.svg)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_8/ds-pr-week-8-student.ipynb) | ![GitHub Solution — unavailable](img/badges/github-solution-unavailable.svg) |
+| [![Colab Student](img/badges/colab-student.svg)](https://colab.research.google.com/github/AISIC-Lab/Data-Science/blob/main/Week_8/ds-pr-week-8-student.ipynb) | ![Colab Solution — unavailable](img/badges/colab-solution-unavailable.svg) |
+
+### 📂 Datasets
+
+[![Auto.csv](https://img.shields.io/badge/Auto.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Week_8/Auto.csv)
